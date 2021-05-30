@@ -1,0 +1,7 @@
+[debug] > Exec({file:/C:/Users/shash/Desktop/CS6350/PageRank/}pagerank/package, None, None)
+[debug] Evaluating tasks: Compile / package
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[success] Total time: 0 s, completed Apr 9, 2021, 1:58:48 PM
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
